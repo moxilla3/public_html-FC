@@ -1,0 +1,186 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: sans-serif;
+	background-color: #F4F4F4;
+	color:#000000;
+	margin:20px;
+	
+	}
+	
+.topblkbox {
+    background-color: #000;
+	
+h1, h2{
+	text-align: center;
+	
+		color:#f55a62;
+	}
+	
+	
+	
+	
+	
+
+
+h3{
+	color:#4299cf;	
+		
+}
+		
+h4{
+			
+}
+	
+h1{
+	font-size:3em;
+	
+	}
+	
+	p{
+		}
+		  
+   
+}
+  #navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+text-decoration: none;
+padding: .1em 1em;
+color: #888;
+background-color: none;
+}
+
+#navcontainer ul li a:hover
+{
+color: #F05B62;
+
+}
+
+.pbios {
+	font-family: "Open Sans", "Helvetica neue". sans-serif;
+	color:#000000;
+	font-weight: lighter;
+	font-size: .8em;
+	margin: 0 20 0 0 
+	
+}
+
+.bioshead {
+	font-family: "Open Sans", "Helvetica neue". sans-serif;
+	margin-bottom: 1em;
+	
+	color:#d31f26;
+	font-weight: 400;
+	font-size: 1.5em;
+	text-align:center;
+}
+	
+	.jumbotronsubpg {
+		padding: 30px;
+	margin-bottom: 15px;
+	color: inherit;
+	background-color: #F05B62;
+	max-height: 185px;
+	bakground-image: "";
+}
+
+.headcontainer {
+	max-width: 300px;	
+}
+
+.headcontainer .ul {
+	
+}
+
+.headcontainer .ul {
+	
+}
+
+.descrip {
+	font-family: "Open Sans", "Helvetica neue". sans-serif;
+	margin-bottom: 0 auto 1em auto;
+	color:#545252;
+	font-weight: 300;
+	font-size: .8;
+}
+
+
+.topcontactinfo {
+	
+	display: inline-block;
+	float:right;
+	width: 33%;
+	font-family: "Open Sans", "Helvetica neue". sans-serif;
+	margin-bottom: 0 auto 1em auto;
+	color:#545252;
+	font-weight: 300;
+	font-size: .8;
+}
+
+
+.logo {
+   display: inline-block;
+
+
+}
+  .jumbotron {
+	text-align: center;
+	padding: 30px;
+	color: #FAF8F8;
+	background-color: #000;
+	height: auto;
+
+p {font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	    margin-bottom: 1em auto 1em auto;
+	    color: #fff;
+	    font-weight: lighter;
+	
+	}
+	
+	.phone {
+		font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	    font-weight: normal;
+		font-size: 1em;	   
+
+	}
+	
+	
+	.email {
+		font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	    font-weight: lighter;
+		font-size: .5em;	 
+		border: thin;
+		width: 50px;
+	}
+	
+	
+	.address {
+		font-family: "Open Sans", "Helvetica neue". sans-serif;
+	    margin: 1em auto 1em auto;
+	    font-weight: lighter;
+		font-size: .5em;	   
+
+	}
+	
+	.hours {
+		font-family: "Open Sans", "Helvetica Neue". sans-serif;
+	    margin: 1em auto 1em auto;
+	    font-weight: lighter;
+		font-size: .1em;
+		line-height: 1.8em;
+		color: #ACF804;
+	}
+	
+	
+	

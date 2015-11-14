@@ -1,0 +1,109 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="feelrecharged.com" resolutions="1x" timestamp="1446829899349">
+  <folder name="css">
+    <file name="site_global.css" crc="410549337"/>
+    <file name="master_a-master.css" crc="95255707" ref="quote:contact:recycle:shop:services"/>
+    <file name="master_main.css" crc="4252818284" ref="index"/>
+    <file name="quote.css" crc="363872262" ref="quote"/>
+    <file name="contact.css" crc="4267815399" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3966569659" ref="contact"/>
+    <file name="index.css" crc="400817920" ref="index"/>
+    <file name="iefonts_index.css" crc="4248845398" ref="index"/>
+    <file name="recycle.css" crc="363872262" ref="recycle"/>
+    <file name="shop.css" crc="171357090" ref="shop"/>
+    <file name="iefonts_shop.css" crc="363015830" ref="shop"/>
+    <file name="services.css" crc="363872262" ref="services"/>
+  </folder>
+  <folder name="assets">
+    <file name="repairiphoneetc.jpg" crc="3814031701" seo="true" mt="1438215076000"/>
+    <file name="freediabmo.jpg" crc="3994726811" seo="true" mt="1438215023000"/>
+    <file name="gamerepair.jpg" crc="4079679183" seo="true" mt="1438214964000"/>
+    <file name="solidstate.jpg" crc="3850341019" seo="true" mt="1438214918000"/>
+    <file name="color.jpg" crc="3925591755" seo="true" mt="1438214707000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="museutils.js" crc="275725342" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="webpro.js" crc="3883484123" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="form_check.php" crc="3849601529" ref="index:contact"/>
+    <file name="form_process.php" crc="3864172277" ref="index:contact"/>
+    <file name="recaptchalib.php" crc="385583985" ref="index"/>
+    <file name="form-u1045.php" crc="3810474526" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form-u326.php" crc="101840325" ref="contact"/>
+    <file name="pie.js" crc="3827607177" ref="shop"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3871659463" ref="index"/>
+    <file name="pasted image 1536x2048-crop-u1404.png" crc="230050982" ref="index"/>
+    <file name="01.jpg" crc="3783695676" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="02.jpg" crc="18197179" seo="true" ref="index"/>
+    <file name="10.jpg" crc="4196340798" seo="true" ref="index"/>
+    <file name="01a.jpg" crc="3764118958" seo="true" ref="index"/>
+    <file name="01b.jpg" crc="177853774" seo="true" ref="index"/>
+    <file name="03.jpg" crc="374445051" seo="true" ref="index"/>
+    <file name="05.jpg" crc="439411111" seo="true" ref="index"/>
+    <file name="07.jpg" crc="239795888" seo="true" ref="index"/>
+    <file name="11.jpg" crc="3794541827" seo="true" ref="index"/>
+    <file name="06.jpg" crc="76736615" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="recharged-vector-logo.png" crc="123475434" seo="true" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="pasted svg 32x32.svg" crc="242812526" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="pasted svg 32x32_poster_.png" crc="4075447364" ref="index"/>
+    <file name="pasted svg 32x322.svg" crc="209382156" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="pasted svg 32x32_poster_2.png" crc="4265446697" ref="index"/>
+    <file name="pasted svg 203728x414.svg" crc="4211989418" ref="index"/>
+    <file name="pasted svg 203728x414_poster_.png" crc="3916084710" ref="index"/>
+    <file name="pasted svg 390649x361.svg" crc="63167793" ref="index"/>
+    <file name="pasted svg 390649x361_poster_.png" crc="4233036894" ref="index"/>
+    <file name="pasted svg 149108x128.svg" crc="4005272760" ref="index"/>
+    <file name="pasted svg 149108x128_poster_.png" crc="354817427" ref="index"/>
+    <file name="u282-11.png" crc="267716243" ref="index"/>
+    <file name="u1055-17.png" crc="260392790" ref="index"/>
+    <file name="u1055-17-r.png" crc="3812697481" ref="index"/>
+    <file name="u1055-17-m.png" crc="3764187930" ref="index"/>
+    <file name="u1055-17-fs.png" crc="367417684" ref="index"/>
+    <file name="recaptchamodeaudio.png" crc="140711744" ref="index"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="4012741543" ref="index"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="169475968" ref="index"/>
+    <file name="recaptchamodeimage.png" crc="3933454017" ref="index"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="81540066" ref="index"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="303121703" ref="index"/>
+    <file name="recaptcharefresh.png" crc="249852327" ref="index"/>
+    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="index"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="index"/>
+    <file name="recaptchahelp.png" crc="503944989" ref="index"/>
+    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="index"/>
+    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="index"/>
+    <file name="pasted image 1627x2048.jpg" crc="106298630" seo="true" ref="index"/>
+    <file name="pasted image 1274x1651-crop-u1391.png" crc="454138855" ref="index"/>
+    <file name="pasted svg 90x90.svg" crc="3836113772" ref="index"/>
+    <file name="pasted svg 90x90_poster_.png" crc="369669934" ref="index"/>
+    <file name="pasted svg 49652x49.svg" crc="4084621186" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="pasted svg 49652x49_poster_.png" crc="3899098326" ref="index"/>
+    <file name="pasted svg 49652x492.svg" crc="4172032980" ref="index:services:quote:contact:recycle:shop"/>
+    <file name="pasted svg 49652x49_poster_2.png" crc="4223532295" ref="index"/>
+    <file name="u342-17.png" crc="339615781" ref="contact"/>
+    <file name="u342-17-r.png" crc="3972775235" ref="contact"/>
+    <file name="u342-17-m.png" crc="3972775235" ref="contact"/>
+    <file name="u342-17-fs.png" crc="345197156" ref="contact"/>
+    <file name="p007-175sq.jpg" crc="401835009" seo="true" ref="shop"/>
+    <file name="samsung-w.jpg" crc="3769853731" seo="true" ref="shop"/>
+    <file name="175x175macbookair15.jpg" crc="191909679" seo="true" ref="shop"/>
+    <file name="175x175delllaptop.jpg" crc="374702483" seo="true" ref="shop"/>
+    <file name="175x175hp-envy-h8-1534.jpg" crc="3776060599" seo="true" ref="shop"/>
+  </folder>
+  <file name="index.html" crc="3997096958" seo="true" mt="1446756730037" redirect="true"/>
+  <file name="services.html" crc="257624678" seo="true" mt="1446756766520" redirect="true"/>
+  <file name="quote.html" crc="114276380" seo="true" mt="1446756766520" redirect="true"/>
+  <file name="contact.html" crc="98114563" seo="true" mt="1446756766520" redirect="true"/>
+  <file name="recycle.html" crc="521939777" seo="true" mt="1446756766520" redirect="true"/>
+  <file name="shop.html" crc="369418341" seo="true" mt="1446829832221" redirect="true"/>
+</manifest>
